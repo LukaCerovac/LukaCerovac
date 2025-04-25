@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaCerovac
 - 👀 I’m interested in FE technologies.   
-- 🌱 I’m currently working in Next.js
+- 🌱 I’m currently working in Next.js or any React based env
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - lkcerovac@gmail.com
 
